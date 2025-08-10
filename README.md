@@ -23,9 +23,8 @@ Quran Android Madinah القرآن الكريم
 
 
 تحميل التطبيق
-https://github.com/mp30quran/quran-android-madinah/releases/download/v1/quran-android-madinah-v1
 
-
+https://github.com/mp30quran/quran-android-madinah/releases/download/v1/quran-android-madinah-v1.apk
 
 مصدر صفحات القرآن الكريم 
 مشروع Quran android

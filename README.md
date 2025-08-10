@@ -32,13 +32,11 @@ https://github.com/quran/quran_android
 
 <img width="222" height="222" alt="quran-icon-png-8833" src="https://github.com/user-attachments/assets/2d39364e-ef1d-4821-bcdc-17d0a301fc60" />
 
-<img width="1080" height="2424" alt="Screenshot_1754866636" src="https://github.com/user-attachments/assets/dcd880fb-47d7-4864-b889-58570713d393" />
 
 <img width="1080" height="2424" alt="Screenshot_1754866668" src="https://github.com/user-attachments/assets/644a5e36-ac57-4952-a2a1-393aad6bd9c1" />
 
 <img width="1080" height="2424" alt="Screenshot_1754866697" src="https://github.com/user-attachments/assets/dc20fbae-fe70-483b-81a4-29e01c6f44d4" />
 
-<img width="1080" height="2424" alt="Screenshot_1754866636" src="https://github.com/user-attachments/assets/30dce1ed-4fee-4785-9c46-d7933a85e752" />
 
 
 <img width="1080" height="2424" alt="Screenshot_1754866642" src="https://github.com/user-attachments/assets/324edb20-7a84-4ef4-a4eb-de2d76b20f29" />

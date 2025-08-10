@@ -21,6 +21,12 @@ Quran Android Madinah القرآن الكريم
 
 دعم التكبير والتصغير لسهولة القراءة
 
+
+تحميل التطبيق
+https://github.com/mp30quran/quran-android-madinah/releases/download/v1/quran-android-madinah-v1
+
+
+
 مصدر صفحات القرآن الكريم 
 مشروع Quran android
 https://github.com/quran/quran_android
